@@ -18,5 +18,4 @@ public class ArraySum {
         System.out.println("Сумма = " + sum);
         return sum;
     }
-
 }
